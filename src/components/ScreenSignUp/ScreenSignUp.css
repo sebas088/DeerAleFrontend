@@ -1,0 +1,14 @@
+.divForm{
+    display: grid;
+    justify-content: center;
+    margin: auto;
+    margin-top: 60px;
+    width: 600px;
+    height: 600px;
+}
+
+.formRegister{
+    display: grid;
+    grid-gap: 10px;
+    width: 300px;
+}
